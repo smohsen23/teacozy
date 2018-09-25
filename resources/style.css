@@ -46,9 +46,12 @@ margin:10px 30px 0 50px;
   display:inline-block;
 }
 
-.video{
+.media{
   margin:3rem 0;
-  border:gray solid 3px;
+}
+
+.video{
+  border:gray solid 5px;
 }
 
 
